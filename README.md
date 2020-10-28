@@ -1,2 +1,2 @@
 # hello2-circleci
-test hook 1
+test hook 2
